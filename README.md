@@ -3,7 +3,7 @@
 ## ✨ Repro
 
 1. `npm install`
-2. `npm run dev`
+2. `npm run dev` (optional)
 3. `npm test`
 
 Mock server [HERE](./backend/mock-server.js), test file [HERE](./frontend/components/__tests__/Todo.test.js)
